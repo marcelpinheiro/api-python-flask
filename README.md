@@ -136,16 +136,16 @@ python app.py
 
 If everything goes fine, you should see something like that:
 
-![flask](images\Screenshot_5.png)
+![flask](images/Screenshot_5.png)
 
 ### Postman
 Open the Postman app, click in Environments and create a new one. In variable name, put anything you want and in initial_value  and current_value, put: http://127.0.0.1:5000
 
-![flask](images\Screenshot_7.png)
+![flask](images/Screenshot_7.png)
 
 And then click in Collection and create a new one.
 
-![flask](images\Screenshot_1.png)
+![flask](images/Screenshot_1.png)
 
 &nbsp;
 ### The api has four options to choose:
