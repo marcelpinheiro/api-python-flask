@@ -1,5 +1,5 @@
 from datetime import datetime
-from flask import Flask, g
+from flask import Flask
 from flask_restful import Resource, Api, reqparse
 import pandas as pd
 
